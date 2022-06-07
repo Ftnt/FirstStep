@@ -8,3 +8,7 @@ function suma() {
 function resta() {
   console.log(2 - 2);
 }
+
+function multiplicar() {
+  console.log(2 * 2);
+}
